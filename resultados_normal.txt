@@ -1,0 +1,10 @@
+Ana,Beto,2
+Carla,Ana,1
+Diego,Ana,3
+Beto,Carla,1
+Elena,Beto,2
+Carla,Diego,2
+Diego,Elena,1
+Ana,Elena,3
+Elena,Carla,1
+Diego,Beto,2
